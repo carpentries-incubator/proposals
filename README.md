@@ -2,7 +2,7 @@
 
 Thank you for your interest in developing and sharing lesson materials! This GitHub organization serves as a resource for people to share and use each other’s Carpentries-style lessons. The materials provided in this GitHub organization have not been reviewed by and are not endorsed by The Carpentries. 
 
-Everyone participating in The Carpentries Incubator agrees to follow The Carpentries [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc). 
+Everyone participating in The Carpentries Incubator agrees to follow The Carpentries [Code of Conduct][coc]. 
 
 ## The Carpentries Incubator vs The Carpentries Lab
 The Carpentries Incubator is a space for:
@@ -23,9 +23,9 @@ There is also a need from learners who have participated in our workshops to exp
 
 The goal of The Carpentries Incubator is to be a place for Carpentries community members to share resources in early stages of development. People already familiar with The Carpentries teaching practices can pick them up and teach them in meetups, in class, or in complement of a "standard" Carpentries 2-day workshop. The lessons can also be used by independent learners, outside of workshops. 
 
-Submitting a lesson or a lesson idea to this repository should be viewed as a first stage in making your lesson materials broadly available to The Carpentries community. Any lesson that uses The Carpentries [lesson template](https://github.com/carpentries/styles) and follows our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc) can be hosted in The Carpentries Incubator. 
+Submitting a lesson or a lesson idea to this repository should be viewed as a first stage in making your lesson materials broadly available to The Carpentries community. Any lesson that uses The Carpentries [lesson template][lesson-template] and follows our [Code of Conduct][coc] can be hosted in The Carpentries Incubator. 
 
-In the near future, we will also provide a friendly, community-supported, peer-review process for lessons. After the peer-review process, the lessons will be hosted in The Carpentries Lab and will be officially endorsed by The Carpentries as high-quality resources. 
+In the near future, we will also provide a friendly, community-supported, peer-review process for lessons. After the peer-review process, the lessons will be hosted in [The Carpentries Lab][carpentries-lab] and will be officially endorsed by The Carpentries as high-quality resources. 
 
 ## Why should you submit your lesson to The Carpentries Incubator
 
@@ -34,8 +34,8 @@ In the near future, we will also provide a friendly, community-supported, peer-r
 
 ## What are the requirements for being included in The Carpentries Incubator
 
-* Your lesson must use our [lesson template](https://github.com/carpentries/styles) and conform to our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc).
-* Your lesson is licensed [CC-BY](https://creativecommons.org/licenses/by/4.0/) or [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/) (or you agree to have your lesson so licensed). 
+* Your lesson must use our [lesson template][lesson-template] and conform to our [Code of Conduct][coc].
+* Your lesson is licensed [CC-BY][cc-by] or [CC-0][cc-0] (or you agree to have your lesson so licensed). 
 
 If you have any questions about these requirements, please contact [team@carpentries.org](mailto: team@carpentries.org).
 
@@ -45,4 +45,8 @@ Open an Issue in this repository. The Issue template has a short set of question
 Thank you and welcome to The Carpentries Incubator!
 
 
-[carpentries-lab]: (https://github.com/carpentrieslab/proposals)
+[cc-0]: https://creativecommons.org/share-your-work/public-domain/cc0/
+[cc-by]: https://creativecommons.org/licenses/by/4.0/
+[carpentries-lab]: https://github.com/carpentrieslab/proposals
+[coc]: https://docs.carpentries.org/topic_folders/policies/index_coc
+[lesson-template]: https://github.com/carpentries/styles
