@@ -48,6 +48,6 @@ Thank you and welcome to The Carpentries Incubator!
 [cc-0]: https://creativecommons.org/share-your-work/public-domain/cc0/
 [cc-by]: https://creativecommons.org/licenses/by/4.0/
 [carpentries-lab]: https://github.com/carpentrieslab/proposals
-[coc]: https://docs.carpentries.org/topic_folders/policies/index_coc.html
+[coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view
 [issues]: https://github.com/carpentries-incubator/proposals/issues
 [lesson-template]: https://github.com/carpentries/styles
