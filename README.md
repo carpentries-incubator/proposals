@@ -40,7 +40,7 @@ In the near future, we will also provide a friendly, community-supported, peer-r
 If you have any questions about these requirements, please contact [team@carpentries.org](mailto: team@carpentries.org).
 
 ## What is the process for submitting a lesson to The Carpentries Incubator
-Open an Issue in this repository. The Issue template has a short set of questions for you to answer. Your answers to these questions will help us to determine an appropriate next step for your lesson materials or lesson idea. Feel free to get in touch with team@carpentries.org with any questions, either before or after submitting your Issue. 
+Open an [Issue][issues] in this repository. The Issue template has a short set of questions for you to answer. Your answers to these questions will help us to determine an appropriate next step for your lesson materials or lesson idea. Feel free to get in touch with team@carpentries.org with any questions, either before or after submitting your Issue. 
 
 Thank you and welcome to The Carpentries Incubator!
 
@@ -49,4 +49,5 @@ Thank you and welcome to The Carpentries Incubator!
 [cc-by]: https://creativecommons.org/licenses/by/4.0/
 [carpentries-lab]: https://github.com/carpentrieslab/proposals
 [coc]: https://docs.carpentries.org/topic_folders/policies/index_coc
+[issues]: https://github.com/carpentries-incubator/proposals/issues
 [lesson-template]: https://github.com/carpentries/styles
