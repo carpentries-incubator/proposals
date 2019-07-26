@@ -27,19 +27,19 @@ The Carpentries Incubator is for:
 
 **If you haven’t already been invited to submit your lesson materials to The Carpentries Lab, please submit to The Carpentries Incubator.** 
 
-## Why should you submit your lesson to The Carpentries Incubator
+## Why should you submit your lesson to The Carpentries Incubator?
 
 * You want to make your lesson materials available to others in The Carpentries community.
 * You are interested in getting contributions from other community members.
 
-## What are the requirements for being included in The Carpentries Incubator
+## What are the requirements for being included in The Carpentries Incubator?
 
 * Your lesson must use our [lesson template][lesson-template] and conform to our [Code of Conduct][coc].
 * Your lesson is licensed [CC-BY][cc-by] or [CC-0][cc-0] (or you agree to have your lesson so licensed). 
 
 If you have any questions about these requirements, please contact team@carpentries.org.
 
-## What is the process for submitting a lesson to The Carpentries Incubator
+## What is the process for submitting a lesson to The Carpentries Incubator?
 Open an [Issue][issues] in this repository. The Issue template has a short set of questions for you to answer. Your answers to these questions will help us to determine an appropriate next step for your lesson materials or lesson idea. Feel free to get in touch with team@carpentries.org with any questions, either before or after submitting your Issue. 
 
 Thank you and welcome to The Carpentries Incubator!
