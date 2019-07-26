@@ -9,7 +9,7 @@ The Carpentries Incubator is a space for:
 * Collaborative lesson development
 * Providing visibility on lessons that are being worked on
 
-[The Carpentries Lab](https://github.com/carpentrieslab/proposals) is for:
+[The Carpentries Lab][carpentries-lab] is for:
 * Repository of peer-reviewed, short-format, lessons that use the teaching approach and lesson design from the Carpentries
 * Getting peer-review on the content of the lesson in the way traditional journal peer-review wouldn’t be able to provide.
 
@@ -43,3 +43,6 @@ If you have any questions about these requirements, please contact [team@carpent
 Open an Issue in this repository. The Issue template has a short set of questions for you to answer. Your answers to these questions will help us to determine an appropriate next step for your lesson materials or lesson idea. Feel free to get in touch with team@carpentries.org with any questions, either before or after submitting your Issue. 
 
 Thank you and welcome to The Carpentries Incubator!
+
+
+[carpentries-lab]: (https://github.com/carpentrieslab/proposals)
