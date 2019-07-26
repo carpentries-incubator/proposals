@@ -4,17 +4,6 @@ Thank you for your interest in developing and sharing lesson materials! This Git
 
 Everyone participating in The Carpentries Incubator agrees to follow The Carpentries [Code of Conduct][coc]. 
 
-## The Carpentries Incubator vs The Carpentries Lab
-The Carpentries Incubator is a space for:
-* Collaborative lesson development
-* Providing visibility on lessons that are being worked on
-
-[The Carpentries Lab][carpentries-lab] is for:
-* Repository of peer-reviewed, short-format, lessons that use the teaching approach and lesson design from the Carpentries
-* Getting peer-review on the content of the lesson in the way traditional journal peer-review wouldn’t be able to provide.
-
-**If you haven’t already been invited to submit your lesson materials to The Carpentries Lab, please submit to The Carpentries Incubator.** 
-
 ## Why The Carpentries Incubator?
 
 There is excitement and interest in the way The Carpentries teach and deliver workshops. We are developing tools and templates for lessons that have proven to be effective to format and deliver both in workshop settings and in self-guided settings. 
@@ -26,6 +15,17 @@ The goal of The Carpentries Incubator is to be a place for Carpentries community
 Submitting a lesson or a lesson idea to this repository should be viewed as a first stage in making your lesson materials broadly available to The Carpentries community. Any lesson that uses The Carpentries [lesson template][lesson-template] and follows our [Code of Conduct][coc] can be hosted in The Carpentries Incubator. 
 
 In the near future, we will also provide a friendly, community-supported, peer-review process for lessons. After the peer-review process, the lessons will be hosted in [The Carpentries Lab][carpentries-lab] and will be officially endorsed by The Carpentries as high-quality resources. 
+
+## The Carpentries Incubator vs The Carpentries Lab
+The Carpentries Incubator is for:
+* Collaborative lesson development
+* Providing visibility on lessons that are being worked on
+
+[The Carpentries Lab][carpentries-lab] is for:
+* Repository of peer-reviewed, short-format, lessons that use the teaching approach and lesson design from the Carpentries
+* Getting peer-review on the content of the lesson in the way traditional journal peer-review wouldn’t be able to provide.
+
+**If you haven’t already been invited to submit your lesson materials to The Carpentries Lab, please submit to The Carpentries Incubator.** 
 
 ## Why should you submit your lesson to The Carpentries Incubator
 
