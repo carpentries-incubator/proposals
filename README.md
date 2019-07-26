@@ -4,6 +4,7 @@ Thank you for your interest in developing and sharing lesson materials! This Git
 
 Everyone participating in The Carpentries Incubator agrees to follow The Carpentries [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc). 
 
+## The Carpentries Incubator vs The Carpentries Lab
 The Carpentries Incubator is a space for:
 * Collaborative lesson development
 * Providing visibility on lessons that are being worked on
@@ -12,7 +13,7 @@ The Carpentries Incubator is a space for:
 * Repository of peer-reviewed, short-format, lessons that use the teaching approach and lesson design from the Carpentries
 * Getting peer-review on the content of the lesson in the way traditional journal peer-review wouldn’t be able to provide.
 
-If you haven’t already been invited to submit your lesson materials to The Carpentries Lab, please submit to The Carpentries Incubator. 
+**If you haven’t already been invited to submit your lesson materials to The Carpentries Lab, please submit to The Carpentries Incubator.** 
 
 ## Why The Carpentries Incubator?
 
