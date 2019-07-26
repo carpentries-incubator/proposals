@@ -35,7 +35,8 @@ The Carpentries Incubator is for:
 ## What are the requirements for being included in The Carpentries Incubator?
 
 * Your lesson must use our [lesson template][lesson-template] and conform to our [Code of Conduct][coc].
-* Your lesson is licensed [CC-BY][cc-by] or [CC-0][cc-0] (or you agree to have your lesson so licensed). 
+* Your lesson is licensed [CC-BY][cc-by] or [CC-0][cc-0] (or you agree to have your lesson so licensed).
+* (Recommended) Your lesson follows The Carpentries approach to curriculum development detailed in our [Curriculum Development Handbook][cdh].
 
 If you have any questions about these requirements, please contact team@carpentries.org.
 
@@ -47,6 +48,7 @@ Thank you and welcome to The Carpentries Incubator!
 
 [cc-0]: https://creativecommons.org/share-your-work/public-domain/cc0/
 [cc-by]: https://creativecommons.org/licenses/by/4.0/
+[cdh]: https://cdh.carpentries.org/
 [carpentries-lab]: https://github.com/carpentrieslab/proposals
 [coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view
 [issues]: https://github.com/carpentries-incubator/proposals/issues
