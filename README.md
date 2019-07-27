@@ -41,7 +41,7 @@ The Carpentries Incubator is for:
 If you have any questions about these requirements, please contact team@carpentries.org.
 
 ## What is the process for submitting a lesson to The Carpentries Incubator?
-Open an [Issue][issues] in this repository. The Issue template has a short set of questions for you to answer. Your answers to these questions will help us to determine an appropriate next step for your lesson materials or lesson idea. Feel free to get in touch with team@carpentries.org with any questions, either before or after submitting your Issue. 
+Open an [Issue][issues] in this repository. The Issue template has a [short set of questions][issue-template] for you to answer. Your answers to these questions will help us to determine an appropriate next step for your lesson materials or lesson idea. Feel free to get in touch with team@carpentries.org with any questions, either before or after submitting your Issue. 
 
 Thank you and welcome to The Carpentries Incubator!
 
@@ -52,4 +52,5 @@ Thank you and welcome to The Carpentries Incubator!
 [carpentries-lab]: https://github.com/carpentrieslab/proposals
 [coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view
 [issues]: https://github.com/carpentries-incubator/proposals/issues
+[issue-template]: https://github.com/carpentries-incubator/proposals/blob/master/ISSUE_TEMPLATE.md
 [lesson-template]: https://github.com/carpentries/styles
