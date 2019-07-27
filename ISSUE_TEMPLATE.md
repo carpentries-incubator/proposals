@@ -6,20 +6,16 @@ Thank you for your interest in developing and sharing lesson materials! To submi
 
 (If you answered "No" to question 2, you can skip the remaining questions. Thank you for your lesson idea!)
 
-3. Do your materials conform to our [Code of Conduct][coc]?
+3. Do your materials conform to our Code of Conduct? (https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view)
 
-4. Are your materials already on GitHub and do they use The Carpentries [lesson template][lesson-template]? 
+4. Are your materials already on GitHub and do they use The Carpentries lesson template? (https://github.com/carpentries/styles)
 
 5. If you answered "No" to either part of question 4, would you like our Curriculum Team to create a repository for you in The Carpentries Incubator?
 
-6. If you answered "Yes" to both parts of question 4, would you like to transfer your repository to The Carpentries Incubator? You will have [Write access][access-levels] to the repository. 
+6. If you answered "Yes" to both parts of question 4, would you like to transfer your repository to The Carpentries Incubator? You will have Write access (https://help.github.com/en/articles/repository-permission-levels-for-an-organization) to the repository. 
 
-7. If you answered "Yes" to either question 5 or 6, list the GitHub handles for people who should have [Write access][access-levels] to your lesson. If you don't know how to answer this question, don't worry! We can always add collaborators later. 
+7. If you answered "Yes" to either question 5 or 6, list the GitHub handles for people who should have Write access (https://help.github.com/en/articles/repository-permission-levels-for-an-organization) to your lesson. If you don't know how to answer this question, don't worry! We can always add collaborators later. 
 
 8. Any other information you would like us to have or questions you have for us?
 
 Thank you for sharing your lesson with The Carpentries community!
-
-[access-levels]: https://help.github.com/en/articles/repository-permission-levels-for-an-organization
-[coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view
-[lesson-template]: https://github.com/carpentries/styles
