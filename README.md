@@ -12,7 +12,7 @@ There is also a need from learners who have participated in our workshops to exp
 
 The goal of The Carpentries Incubator is to be a place for Carpentries community members to share resources in early stages of development. People already familiar with The Carpentries teaching practices can pick them up and teach them in meetups, in class, or in complement of a "standard" Carpentries 2-day workshop. The lessons can also be used by independent learners, outside of workshops. 
 
-Submitting a lesson or a lesson idea to this repository should be viewed as a first stage in making your lesson materials broadly available to The Carpentries community. Any lesson that uses The Carpentries [lesson template][lesson-template] and follows our [Code of Conduct][coc] can be hosted in The Carpentries Incubator. 
+Submitting a lesson or a lesson idea to this repository should be viewed as a first stage in making your lesson materials broadly available to The Carpentries community. Any lesson that uses The Carpentries [lesson template][lesson-template], follows our [Code of Conduct][coc], and is licensed either [CC-BY][cc-by] or [CC-0][cc-0] can be hosted in The Carpentries Incubator. 
 
 In the near future, we will also provide a friendly, community-supported, peer-review process for lessons. After the peer-review process, the lessons will be hosted in [The Carpentries Lab][carpentries-lab] and will be officially endorsed by The Carpentries as high-quality resources. 
 
