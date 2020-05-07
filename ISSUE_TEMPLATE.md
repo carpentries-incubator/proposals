@@ -8,7 +8,7 @@ Thank you for your interest in developing and sharing lesson materials! To submi
 
 3. Do your materials conform to our [Code of Conduct][coc]?
 
-4. Are your materials already on GitHub and do they use The Carpentries [lesson template][lesson-template]? 
+4. Are your materials already on GitHub and do they use The Carpentries [lesson template][lesson-template]? (you can visit [our lesson example](https://carpentries.github.io/lesson-example/) to learn more about how to use our template).
 
 5. If you answered "No" to either part of question 4, would you like our Curriculum Team to create a repository for you in The Carpentries Incubator?
 
