@@ -34,13 +34,14 @@ The Carpentries Incubator is for:
 
 ## What are the requirements for being included in The Carpentries Incubator?
 
-* Your lesson must use our [lesson template][lesson-template] and conform to our [Code of Conduct][coc].
+* Your lesson must use our [lesson template][lesson-template] and conform to our [Code of Conduct][coc]. You can use the [lesson example](https://carpentries.github.io/lesson-example/) ([GitHub Repo](https://github.com/carpentries/lesson-example/)) to learn more about how to use our lesson template.
 * Your lesson is licensed [CC-BY][cc-by] or [CC-0][cc-0] (or you agree to have your lesson so licensed).
 * (Recommended) Your lesson follows The Carpentries approach to curriculum development detailed in our [Curriculum Development Handbook][cdh].
 
 If you have any questions about these requirements, please contact team@carpentries.org.
 
 ## What is the process for submitting a lesson to The Carpentries Incubator?
+
 Open an [Issue][issues] in this repository. The Issue template has a [short set of questions][issue-template] for you to answer. Your answers to these questions will help us to determine an appropriate next step for your lesson materials or lesson idea. Feel free to get in touch with team@carpentries.org with any questions, either before or after submitting your Issue. 
 
 Thank you and welcome to The Carpentries Incubator!
