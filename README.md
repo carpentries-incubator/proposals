@@ -20,6 +20,7 @@ In the near future, we will also provide a friendly, community-supported, peer-r
 The Carpentries Incubator is for:
 * Collaborative lesson development
 * Providing visibility on lessons that are being worked on
+* Submit an idea for a lesson that you'd like the community to provide
 
 [The Carpentries Lab][carpentries-lab] is for:
 * Repository of peer-reviewed, short-format, lessons that use the teaching approach and lesson design from the Carpentries
@@ -40,7 +41,7 @@ The Carpentries Incubator is for:
 
 If you have any questions about these requirements, please contact team@carpentries.org.
 
-## What is the process for submitting a lesson to The Carpentries Incubator?
+## What is the process for submitting a lesson or a lesson idea to The Carpentries Incubator?
 
 Open an [Issue][issues] in this repository. The Issue template has a [short set of questions][issue-template] for you to answer. Your answers to these questions will help us to determine an appropriate next step for your lesson materials or lesson idea. Feel free to get in touch with team@carpentries.org with any questions, either before or after submitting your Issue. 
 
