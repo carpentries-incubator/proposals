@@ -4,6 +4,8 @@ Thank you for your interest in developing and sharing lesson materials! This Git
 
 Everyone participating in The Carpentries Incubator agrees to follow The Carpentries [Code of Conduct][coc]. 
 
+For a listing of current lessons, check out the [Community Lessons](https://carpentries.org/community-lessons) page.
+
 ## Why The Carpentries Incubator?
 
 There is excitement and interest in the way The Carpentries teach and deliver workshops. We are developing tools and templates for lessons that have proven to be effective to format and deliver both in workshop settings and in self-guided settings. 
