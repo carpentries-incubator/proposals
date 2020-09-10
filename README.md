@@ -37,8 +37,13 @@ The Carpentries Incubator is for:
 
 ## What are the requirements for being included in The Carpentries Incubator?
 
-* Your lesson must use our [lesson template][lesson-template] and conform to our [Code of Conduct][coc]. You can use the [lesson example](https://carpentries.github.io/lesson-example/) ([GitHub Repo](https://github.com/carpentries/lesson-example/)) to learn more about how to use our lesson template.
+For all proposals:
+* Your lesson/proposed topic should be distinct from existing [official][curricula-official] and [community developed lessons][curricula-community] (in domain of expertise, tools and skills taught/used, target audience, etc). If this is not the case, we recommend you collaborate with the authors/maintainers of those existing materials. Please also refer to the [list of open Issues on this repository][issues]: you might find someone else has already proposed a new lesson on the same topic - they could be your first collaborator!
+
+For pre-existing lesson material to be transferred into The Carpentries Incubator:
+* Your lesson must use our [lesson template][lesson-template] and conform to our [Code of Conduct][coc]. You can use the [lesson example][lesson-example] ([GitHub Repo][lesson-example-repo]) to learn more about how to use our lesson template.
 * Your lesson is licensed [CC-BY][cc-by] or [CC-0][cc-0] (or you agree to have your lesson so licensed).
+* The current life-cycle stage of your lesson is labelled correctly. See [Chapter 7 of the Curriculum Development Handbook for details][cdh-lifecycle]. The Curriculum Team can help you identify the appropriate stage for your lesson while processing your proposal.
 * (Recommended) Your lesson follows The Carpentries approach to curriculum development detailed in our [Curriculum Development Handbook][cdh].
 
 If you have any questions about these requirements, please contact team@carpentries.org.
@@ -53,8 +58,13 @@ Thank you and welcome to The Carpentries Incubator!
 [cc-0]: https://creativecommons.org/share-your-work/public-domain/cc0/
 [cc-by]: https://creativecommons.org/licenses/by/4.0/
 [cdh]: https://cdh.carpentries.org/
+[cdh-lifecycle]: https://cdh.carpentires.org/the-lesson-life-cycle.html#overview-and-definitions
 [carpentries-lab]: https://github.com/carpentrieslab/proposals
 [coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view
+[curricula-community]: https://carpentries.org/community-lessons/
+[curricula-official]: https://carpentries.org/workshops-curricula/
 [issues]: https://github.com/carpentries-incubator/proposals/issues
 [issue-template]: https://github.com/carpentries-incubator/proposals/blob/master/ISSUE_TEMPLATE.md
+[lesson-example]: https://carpentries.github.io/lesson-example/
+[lesson-example-repo]: https://github.com/carpentries/lesson-example/
 [lesson-template]: https://github.com/carpentries/styles
