@@ -12,9 +12,9 @@ Thank you for your interest in developing and sharing lesson materials! To submi
 
 5. If you answered "No" to either part of question 4, would you like our Curriculum Team to create a repository for you in The Carpentries Incubator?
 
-6. If you answered "Yes" to both parts of question 4, would you like to transfer your repository to The Carpentries Incubator? You will have [Write access][access-levels] to the repository. 
+6. If you answered "Yes" to both parts of question 4, would you like to transfer your repository to The Carpentries Incubator? You will have [Admin access][access-levels] to the repository. 
 
-7. If you answered "Yes" to either question 5 or 6, list the GitHub handles for people who should have [Write access][access-levels] to your lesson. If you don't know how to answer this question, don't worry! We can always add collaborators later. 
+7. If you answered "Yes" to either question 5 or 6, list the GitHub handles for people who should have [Maintain access][access-levels] to your lesson. If you don't know how to answer this question, don't worry! We can always add collaborators later. 
 
 8. Any other information you would like us to have or questions you have for us?
 
