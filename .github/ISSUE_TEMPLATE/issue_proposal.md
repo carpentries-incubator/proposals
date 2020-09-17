@@ -1,3 +1,8 @@
+---
+name: Lesson Proposal Template
+about: Use this template to propose adding or transferring a lesson to The Carpentries Incubator.
+---
+
 Thank you for your interest in developing and sharing lesson materials! To submit lesson materials or suggest a topic for future curricular development, please answer the questions below. Our Curriculum Development Team will follow up to suggest next steps in your lesson's trajectory. Questions? Please email team@carpentries.org.
 
 1. What is the topic of your lesson or lesson proposal?
@@ -12,9 +17,9 @@ Thank you for your interest in developing and sharing lesson materials! To submi
 
 5. If you answered "No" to either part of question 4, would you like our Curriculum Team to create a repository for you in The Carpentries Incubator?
 
-6. If you answered "Yes" to both parts of question 4, would you like to transfer your repository to The Carpentries Incubator? You will have [Admin access][access-levels] to the repository. 
+6. If you answered "Yes" to both parts of question 4, would you like to transfer your repository to The Carpentries Incubator? You will have [Admin access][access-levels] to the repository.
 
-7. If you answered "Yes" to either question 5 or 6, list the GitHub handles for people who should have [Maintain access][access-levels] to your lesson. If you don't know how to answer this question, don't worry! We can always add collaborators later. 
+7. If you answered "Yes" to either question 5 or 6, list the GitHub handles for people who should have [Maintain access][access-levels] to your lesson. If you don't know how to answer this question, don't worry! We can always add collaborators later.
 
 8. Any other information you would like us to have or questions you have for us?
 
