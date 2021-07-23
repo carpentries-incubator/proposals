@@ -58,8 +58,8 @@ Thank you and welcome to The Carpentries Incubator!
 [cc-0]: https://creativecommons.org/share-your-work/public-domain/cc0/
 [cc-by]: https://creativecommons.org/licenses/by/4.0/
 [cdh]: https://cdh.carpentries.org/
-[cdh-lifecycle]: https://cdh.carpentires.org/the-lesson-life-cycle.html#overview-and-definitions
-[carpentries-lab]: https://github.com/carpentrieslab/proposals
+[cdh-lifecycle]: https://cdh.carpentries.org/the-lesson-life-cycle.html#overview-and-definitions
+[carpentries-lab]: https://github.com/carpentries-lab/reviews/
 [coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view
 [curricula-community]: https://carpentries.org/community-lessons/
 [curricula-official]: https://carpentries.org/workshops-curricula/
