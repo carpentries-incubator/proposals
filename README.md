@@ -46,11 +46,15 @@ For pre-existing lesson material to be transferred into The Carpentries Incubato
 * The displayed life-cycle stage of your lesson fits with the recommendations in [Chapter 7 of the Curriculum Development Handbook][cdh-lifecycle]. The Curriculum Team can help you identify the appropriate stage for your lesson while processing your proposal.
 * (Recommended) Your lesson follows The Carpentries approach to curriculum development detailed in our [Curriculum Development Handbook][cdh].
 
-If you have any questions about these requirements, please contact team@carpentries.org.
+If you have any questions about these requirements, please contact incubator@carpentries.org.
+
+We reserve the right to remove any lessons in the Incubator that do not conform to the requirements above.
 
 ## What is the process for submitting a lesson or a lesson idea to The Carpentries Incubator?
 
-Open an [Issue][issues] in this repository. The Issue template has a [short set of questions][issue-template] for you to answer. Your answers to these questions will help us to determine an appropriate next step for your lesson materials or lesson idea. Feel free to get in touch with team@carpentries.org with any questions, either before or after submitting your Issue.
+Open an [Issue][issues] in this repository. The Issue template has a [short set of questions][issue-template] for you to answer. Your answers to these questions will help us to determine an appropriate next step for your lesson materials or lesson idea. Feel free to get in touch with incubator@carpentries.org with any questions, either before or after submitting your Issue.
+
+If you are an existing member of this GitHub organization and you wish to create a new lesson repository, or transfer another existing lesson into the Incubator, you are welcome to do so. In such cases, to assist with our internal record-keeping, we ask that you still open an issue to tell us about the lesson.
 
 Thank you and welcome to The Carpentries Incubator!
 
