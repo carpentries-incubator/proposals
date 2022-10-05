@@ -9,13 +9,13 @@ Thank you for your interest in developing and sharing lesson materials! To submi
 
 2. Do you already have a draft of your lesson? You're welcome to share materials at any stage of development. If you already have drafted materials, please include a link.
 
-(If you answered "No" to question 2, you can skip the remaining questions. Thank you for your lesson idea!)
+(If you answered "No" to question 2, you can skip to question 5. Thank you for your lesson idea!)
 
 3. Do your materials conform to our [Code of Conduct][coc]?
 
-4. Are your materials already on GitHub and do they use The Carpentries [lesson template][lesson-template]? (you can visit [our lesson example](https://carpentries.github.io/lesson-example/) to learn more about how to use our template).
+4. Are your materials already on GitHub and do they use The Carpentries [lesson template][lesson-template] or [The Carpentries Workbench][workbench]? (you can visit [the Workbench tutorial](https://carpentries.github.io/sandpaper-docs/) to learn more about how to use our lesson infrastructure).
 
-5. If you answered "No" to either part of question 4, would you like our Curriculum Team to create a repository for you in The Carpentries Incubator?
+5. If you answered "No" to question 2 or either part of question 4, would you like our Curriculum Team to create a repository for you in The Carpentries Incubator?
 
 6. If you answered "Yes" to both parts of question 4, would you like to transfer your repository to The Carpentries Incubator? You will have [Admin access][access-levels] to the repository.
 
@@ -28,3 +28,4 @@ Thank you for sharing your lesson with The Carpentries community!
 [access-levels]: https://help.github.com/en/articles/repository-permission-levels-for-an-organization
 [coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view
 [lesson-template]: https://github.com/carpentries/styles
+[workbench]: https://carpentries.github.io/workbench/
