@@ -44,7 +44,7 @@ body:
       options:
         - label: do your lesson materials conform to our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view)?
         - label: are your materials already on GitHub and do they use The Carpentries [lesson template](https://github.com/carpentries/styles) or [The Carpentries Workbench](https://carpentries.github.io/workbench/)? (you can visit [the Workbench tutorial](https://carpentries.github.io/sandpaper-docs/) to learn more about how to use our lesson infrastructure).
-  - type: checkbox
+  - type: checkboxes
     attributes:
       label: 4. New repository creation
       description: |
@@ -53,7 +53,7 @@ body:
         Please check the box below if this is the case, and our Curriculum Team will make a new repository for you.
       options: 
         - label: I need a new repository created
-  - type: checkbox
+  - type: checkboxes
     attributes:
       label: 5. Transfer existing repository
       description: |
