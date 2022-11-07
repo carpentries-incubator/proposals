@@ -69,7 +69,7 @@ body:
       description: |
         If you checked one of the boxes in part 4 or part 5, please list the GitHub handles for people who should have [Maintain access](https://help.github.com/en/articles/repository-permission-levels-for-an-organization) to your lesson. 
         If you don't know how to answer this question, don't worry! We can always add collaborators later.
-      placeholder: @MCMaurer @tobyhodges
+      placeholder: ex. @MCMaurer @tobyhodges
   - type: textarea
     id: questions
     attributes:
