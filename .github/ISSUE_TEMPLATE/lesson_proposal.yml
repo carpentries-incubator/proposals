@@ -1,5 +1,5 @@
-name: Testing
-description: Do not use
+name: Lesson Proposal Form
+description: Use this form to propose adding or transferring a lesson to The Carpentries Incubator.
 title: "[Proposal]: "
 labels: ["proposal"]
 assignees:
