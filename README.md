@@ -68,7 +68,7 @@ Thank you and welcome to The Carpentries Incubator!
 [curricula-community]: https://carpentries.org/community-lessons/
 [curricula-official]: https://carpentries.org/workshops-curricula/
 [issues]: https://github.com/carpentries-incubator/proposals/issues
-[issue-template]: https://github.com/carpentries-incubator/proposals/blob/master/.github/ISSUE_TEMPLATE/issue_proposal.yml
+[issue-template]: https://github.com/carpentries-incubator/proposals/blob/master/.github/ISSUE_TEMPLATE/lesson_proposal.yml
 [lesson-example]: https://carpentries.github.io/lesson-example/
 [lesson-example-repo]: https://github.com/carpentries/lesson-example/
 [lesson-template]: https://github.com/carpentries/styles
