@@ -41,7 +41,7 @@ For all proposals:
 * Your lesson/proposed topic should be distinct from existing [official][curricula-official] and [community developed lessons][curricula-community] (in domain of expertise, tools and skills taught/used, target audience, etc). If this is not the case, we recommend you collaborate with the authors/maintainers of those existing materials. Please also refer to the [list of open Issues on this repository][issues]: you might find someone else has already proposed a new lesson on the same topic - they could be your first collaborator!
 
 For pre-existing lesson material to be transferred into The Carpentries Incubator:
-* Your lesson must use our [lesson template][lesson-template] and conform to our [Code of Conduct][coc]. You can use the [lesson example][lesson-example] ([GitHub Repo][lesson-example-repo]) to learn more about how to use our lesson template.
+* Your lesson must use our lesson infrastructure (either [The Carpentries Workbench][workbench] or [the previous lesson template][styles]) and conform to our [Code of Conduct][coc]. You can use [the Workbench documentation][sandpaper-docs] or the [lesson example][lesson-example] ([GitHub Repo][lesson-example-repo]) to learn more about how to use our lesson template.
 * Your lesson is licensed [CC-BY][cc-by] or [CC-0][cc-0] (or you agree to have your lesson so licensed).
 * The displayed life-cycle stage of your lesson fits with the recommendations in [Chapter 7 of the Curriculum Development Handbook][cdh-lifecycle]. The Curriculum Team can help you identify the appropriate stage for your lesson while processing your proposal.
 * (Recommended) Your lesson follows The Carpentries approach to curriculum development detailed in our [Curriculum Development Handbook][cdh].
@@ -71,4 +71,6 @@ Thank you and welcome to The Carpentries Incubator!
 [issue-template]: https://github.com/carpentries-incubator/proposals/blob/master/.github/ISSUE_TEMPLATE/lesson_proposal.yml
 [lesson-example]: https://carpentries.github.io/lesson-example/
 [lesson-example-repo]: https://github.com/carpentries/lesson-example/
-[lesson-template]: https://github.com/carpentries/styles
+[sandpaper-docs]: https://carpentries.github.io/sandpaper-docs/
+[styles]: https://github.com/carpentries/styles
+[workbench]: https://carpentries.github.io/workbench/
