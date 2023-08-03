@@ -22,9 +22,17 @@ body:
     validations:
       required: true
   - type: input
+    id: lang
+    attributes:
+      label: 2. Lesson Language
+      description: What is the (human) language of the lesson?
+      placeholder: ex. Español, Deutsch, English
+    validations:
+      required: true
+  - type: input
     id: draft
     attributes:
-      label: 2. Draft materials
+      label: 3. Draft materials
       description: |
         Do you already have a draft of your lesson? 
         You are welcome to share materials at any stage of development. 
@@ -39,14 +47,14 @@ body:
   - type: checkboxes
     id: existing-terms
     attributes:
-      label: 3. Requirements for existing materials
+      label: 4. Requirements for existing materials
       description: 'For existing lesson materials, please answer the following questions.'
       options:
         - label: do your lesson materials conform to our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view)?
         - label: are your materials already on GitHub and do they use The Carpentries [lesson template](https://github.com/carpentries/styles) or [The Carpentries Workbench](https://carpentries.github.io/workbench/)? (you can visit [the Workbench tutorial](https://carpentries.github.io/sandpaper-docs/) to learn more about how to use our lesson infrastructure).
   - type: checkboxes
     attributes:
-      label: 4. New repository creation
+      label: 5. New repository creation
       description: |
         If you don't have draft materials already or your materials don't meet both criteria in part 3, you will need to have an new repository created in The Carpentries Incubator.
         
@@ -55,7 +63,7 @@ body:
         - label: I need a new repository created
   - type: checkboxes
     attributes:
-      label: 5. Transfer existing repository
+      label: 6. Transfer existing repository
       description: |
         If you have existing lesson materials that meet both criteria in part 3, your repository can be transferred to The Carpentries Incubator.
         
@@ -65,7 +73,7 @@ body:
   - type: textarea
     id: collaborators
     attributes:
-      label: 6. Collaborators
+      label: 7. Collaborators
       description: |
         If you checked one of the boxes in part 4 or part 5, please list the GitHub handles for people who should have [Maintain access](https://help.github.com/en/articles/repository-permission-levels-for-an-organization) to your lesson. 
         If you don't know how to answer this question, don't worry! We can always add collaborators later.
@@ -73,7 +81,7 @@ body:
   - type: textarea
     id: questions
     attributes:
-      label: 7. Info/Questions
+      label: 8. Info/Questions
       description: |
         Is there any other information you would like us to have, or any other questions you have for us?
       placeholder: Feel free to share!
