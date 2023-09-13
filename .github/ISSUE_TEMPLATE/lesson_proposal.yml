@@ -65,17 +65,17 @@ body:
     attributes:
       label: 6. Transfer existing repository
       description: |
-        If you have existing lesson materials that meet both criteria in part 3, your repository can be transferred to The Carpentries Incubator.
+        If you have existing lesson materials that meet both criteria in part 4, your repository can be transferred to The Carpentries Incubator.
         
         If your lesson meets the criteria and you would like your repository transferred, please check the box below.
       options: 
-        - label: my lesson meets both criteria in part 3 and I would like to transfer the repository to The Carpentries Incubator
+        - label: my lesson meets both criteria in part 4 and I would like to transfer the repository to The Carpentries Incubator
   - type: textarea
     id: collaborators
     attributes:
       label: 7. Collaborators
       description: |
-        If you checked one of the boxes in part 4 or part 5, please list the GitHub handles for people who should have [Maintain access](https://help.github.com/en/articles/repository-permission-levels-for-an-organization) to your lesson. 
+        If you checked one of the boxes in part 5 or part 6, please list the GitHub handles for people who should have [Maintain access](https://help.github.com/en/articles/repository-permission-levels-for-an-organization) to your lesson. 
         If you don't know how to answer this question, don't worry! We can always add collaborators later.
       placeholder: ex. @MCMaurer @tobyhodges
   - type: textarea
