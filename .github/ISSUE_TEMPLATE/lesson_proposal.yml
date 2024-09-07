@@ -56,7 +56,7 @@ body:
     attributes:
       label: 5. New repository creation
       description: |
-        If you don't have draft materials already or your materials don't meet both criteria in part 3, you will need to have an new repository created in The Carpentries Incubator.
+        If you don't have draft materials already or your materials don't meet both criteria in part 4, you will need to have an new repository created in The Carpentries Incubator.
         
         Please check the box below if this is the case, and our Curriculum Team will make a new repository for you.
       options: 
