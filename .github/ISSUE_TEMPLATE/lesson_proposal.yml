@@ -43,7 +43,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        If you answered "No" to part 2, you can skip to question 5. Thank you for your lesson idea!
+        If you do not already have a lesson draft, you can skip to question 5. Thank you for your lesson idea!
   - type: checkboxes
     id: existing-terms
     attributes:
